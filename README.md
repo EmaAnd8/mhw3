@@ -1,2 +1,4 @@
 # mhw3
-mhw3:HTML+CSS+JAVASCRIPT+REST API
+Studente:Emanuele Andaloro  
+Matricola:o46002006  
+DB Records home HTML+CSS+JS+REST API
